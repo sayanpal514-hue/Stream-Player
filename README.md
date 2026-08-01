@@ -209,4 +209,4 @@ This project is released for educational use only. No license is granted for com
 
 ---
 
-Made with love by Sayan Pal for learning purposes.
+Made by Sayan Pal for learning purposes.
