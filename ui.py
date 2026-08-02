@@ -191,7 +191,7 @@ def main():
     print("  Initializing components...")
 
     config = load_config()
-    player = StreamPlayer()
+    player = StreamPlayer(config=config)
     cookie_handler = CookieHandler()
     drm_handler = DRMHandler()
 
