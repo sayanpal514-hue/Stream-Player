@@ -28,13 +28,13 @@ This project was built to understand how:
 ```
 Stream Player/
 |
-|-- main.py            # Entry point -- starts the app, checks MPV availability
-|-- ui.py              # Terminal UI -- menus, user interaction, flow control
-|-- player.py          # StreamPlayer class -- wraps MPV via subprocess
-|-- cookie_handler.py  # CookieHandler class -- loads cookies from JSON files
-|-- drm_handler.py     # DRMHandler class -- placeholder for DRM decryption logic
-|-- config.json        # Local configuration file (can be empty initially)
-`-- README.md          # This file
+|-- main.py           
+|-- ui.py              
+|-- player.py          
+|-- cookie_handler.py  
+|-- drm_handler.py     
+|-- config.json        
+`-- README.md          
 ```
 
 ---
